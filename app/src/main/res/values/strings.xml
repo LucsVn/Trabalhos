@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Trab_2Bim</string>
+    <string-array name="TipoDePao">
+        <item>9 Grãos</item>
+        <item>9 Grãos Aveia e Mel</item>
+        <item>Italiano Branco</item>
+        <item>Parmesão com Oregano</item>
+        <item>Tres Queijos</item>
+    </string-array>
+
+    <string-array name="TiposDeQuiejo">
+        <item>Prato</item>
+        <item>Suiço</item>
+        <item>Cheddar</item>
+        <item>Sem Queijo</item>
+    </string-array>
+
+    <string-array name="TiposDeRecheio">
+        <item>Carne</item>
+        <item>Frango</item>
+        <item>Vegetariano</item>
+    </string-array>
+
+    <string-array name="TipoDeSalada">
+        <item>Alaface</item>
+        <item>Tomate</item>
+        <item>Pepino</item>
+        <item>Azeitona</item>
+        <item>Sem Salada</item>
+    </string-array>
+
+    <string-array name="TipoDeMolho">
+        <item>Maionese</item>
+        <item>Supremo</item>
+        <item>Mostarda e Mel</item>
+        <item>Molho Do Cheff</item>
+        <item>Sem Molho</item>
+    </string-array>
+
+
+    <string-array name="valores_list_view">
+        <item> 1 - ESCOLHER PÃO </item>
+        <item> 2 - ESCOLHER RECHEIO </item>
+        <item> 3 - ESCOLHER QUEIJO</item>
+        <item> 4 - ESCOLHER SALADA</item>
+        <item> 5 - ESCOLHER MOLHO</item>
+
+
+    </string-array>
+
+</resources>
